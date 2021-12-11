@@ -1,17 +1,2 @@
-header {
-  display: flex;
-  justify-content: flex-end;
-}
-nav ul {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  padding: 10px 20px;
-  gap: 100px;
-}
-nav ul li {
-  text-decoration: none;
-  list-style-type: none;
-  cursor: pointer;
-}
+
 
